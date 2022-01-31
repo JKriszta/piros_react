@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/piros_react/static/css/main.073c9b0a.css",
+    "main.js": "/piros_react/static/js/main.197740a8.js",
+    "static/js/787.94f2a24b.chunk.js": "/piros_react/static/js/787.94f2a24b.chunk.js",
+    "static/media/logo.svg": "/piros_react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/piros_react/index.html",
+    "main.073c9b0a.css.map": "/piros_react/static/css/main.073c9b0a.css.map",
+    "main.197740a8.js.map": "/piros_react/static/js/main.197740a8.js.map",
+    "787.94f2a24b.chunk.js.map": "/piros_react/static/js/787.94f2a24b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.197740a8.js"
+  ]
+}
